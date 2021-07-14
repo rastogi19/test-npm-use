@@ -1,1 +1,1 @@
-# test-npm-use
+# test-npm-umd
